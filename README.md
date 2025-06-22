@@ -1,2 +1,2 @@
 # Gabriele Geronimi
-Make thimgs
+Make things
